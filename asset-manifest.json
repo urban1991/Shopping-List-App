@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/Shopping-App/static/js/main.3a98d9e2.chunk.js",
-    "main.js.map": "/Shopping-App/static/js/main.3a98d9e2.chunk.js.map",
-    "runtime-main.js": "/Shopping-App/static/js/runtime-main.5608efb5.js",
-    "runtime-main.js.map": "/Shopping-App/static/js/runtime-main.5608efb5.js.map",
-    "static/js/2.0f2018a9.chunk.js": "/Shopping-App/static/js/2.0f2018a9.chunk.js",
-    "static/js/2.0f2018a9.chunk.js.map": "/Shopping-App/static/js/2.0f2018a9.chunk.js.map",
-    "index.html": "/Shopping-App/index.html",
-    "precache-manifest.b5a5223f591dee9e38148d4576f65b1c.js": "/Shopping-App/precache-manifest.b5a5223f591dee9e38148d4576f65b1c.js",
-    "service-worker.js": "/Shopping-App/service-worker.js",
-    "static/js/2.0f2018a9.chunk.js.LICENSE.txt": "/Shopping-App/static/js/2.0f2018a9.chunk.js.LICENSE.txt"
+    "main.js": "/Shopping-List-App/static/js/main.3a98d9e2.chunk.js",
+    "main.js.map": "/Shopping-List-App/static/js/main.3a98d9e2.chunk.js.map",
+    "runtime-main.js": "/Shopping-List-App/static/js/runtime-main.51c6ce3b.js",
+    "runtime-main.js.map": "/Shopping-List-App/static/js/runtime-main.51c6ce3b.js.map",
+    "static/js/2.0f2018a9.chunk.js": "/Shopping-List-App/static/js/2.0f2018a9.chunk.js",
+    "static/js/2.0f2018a9.chunk.js.map": "/Shopping-List-App/static/js/2.0f2018a9.chunk.js.map",
+    "index.html": "/Shopping-List-App/index.html",
+    "precache-manifest.d7adc589bb064e9d2229c59b379cfc81.js": "/Shopping-List-App/precache-manifest.d7adc589bb064e9d2229c59b379cfc81.js",
+    "service-worker.js": "/Shopping-List-App/service-worker.js",
+    "static/js/2.0f2018a9.chunk.js.LICENSE.txt": "/Shopping-List-App/static/js/2.0f2018a9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5608efb5.js",
+    "static/js/runtime-main.51c6ce3b.js",
     "static/js/2.0f2018a9.chunk.js",
     "static/js/main.3a98d9e2.chunk.js"
   ]
